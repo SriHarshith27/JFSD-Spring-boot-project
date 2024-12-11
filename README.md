@@ -8,6 +8,8 @@ Learnify is a comprehensive online course registration and mentoring platform bu
 This Project was Designed and Built by team JFSD sec38-20. and read me file was create by harshith with claude AI.
 
 
+## 🌟 Deployment Url : https://sriharshith27-springprojectdeployment.up.railway.app/
+
 ### 🌟 Key Users
 
 

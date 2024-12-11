@@ -12,10 +12,14 @@ This Project was Designed and Built by team JFSD sec38-20. and read me file was 
 
 
 Demo Users: [creaeted at development of project , new registrations requires password validation]
-username-password
-admin-admin123
-User1-user123
-Mentor1-Mentor27
+username-password :
+
+
+-admin-admin123
+
+-User1-user123
+
+-Mentor1-Mentor27
 
 ### 🌟 Key Modules
 

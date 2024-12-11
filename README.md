@@ -8,6 +8,9 @@ Learnify is a comprehensive online course registration and mentoring platform bu
 This Project was Designed and Built by team JFSD sec38-20. and read me file was create by harshith with claude AI.
 
 
+### 🌟 Key Users
+
+
 Demo Users: [creaeted at development of project , new registrations requires password validation]
 username-password
 admin-admin123

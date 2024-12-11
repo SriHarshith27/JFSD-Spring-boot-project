@@ -55,11 +55,9 @@ Mentor1-Mentor27
 
 ### 👨‍🎓 User Module
 - Course registration
-- Personalized learning paths
 - Progress tracking
 - Assignment submission
 - Mentor interaction
-- Certificate generation
 
 ### 👩‍🏫 Mentor Module
 - Course creation and management
@@ -67,7 +65,6 @@ Mentor1-Mentor27
 - Assignment creation and grading
 - Performance analytics
 - Student performance tracking
-- Earnings dashboard
 
 ## 🌈 Key Implementations
 

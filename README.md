@@ -5,6 +5,7 @@
 ## 📋 Project Overview
 
 Learnify is a comprehensive online course registration and mentoring platform built with Spring Boot, designed to bridge the gap between learners, mentors, and administrators through a robust, feature-rich ecosystem.
+This Project was Designed and Built by team JFSD sec38-20. and read me file was create by harshith with claude AI.
 
 ### 🌟 Key Modules
 
